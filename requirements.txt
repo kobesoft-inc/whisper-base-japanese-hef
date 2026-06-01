@@ -1,0 +1,7 @@
+# Inference dependencies (Raspberry Pi 5 / aarch64). PyHailoRT is provided by the
+# system HailoRT install and inherited via a --system-site-packages venv (see README).
+transformers==4.50.1
+torch==2.6.0
+scipy==1.9.3
+sounddevice==0.5.1
+numpy
